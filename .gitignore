@@ -1,0 +1,19 @@
+# Secretos
+.env
+*.env
+
+# Ficheros grandes (van a Drive, no a GitHub)
+*.mp4
+*.mov
+*.avi
+*.zip
+*.pptx
+*.key
+*.pages
+
+# Mac
+.DS_Store
+.AppleDouble
+
+# iCloud
+*.icloud
